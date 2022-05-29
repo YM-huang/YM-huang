@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YM-huang</h1>
 <h3 align="center">A student from ZJUT, who wants to be a fullstack developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YM-huang&label=Profile%20views&color=0e75b6&style=flat" alt="patrick-star-cn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YM-huang&label=Profile%20views&color=0e75b6&style=flat" alt="YM-huang" /> </p>
 
 - 👋 Hi, @YM-huang here
 
