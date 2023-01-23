@@ -1,8 +1,13 @@
+<h1 align="center">Hi 👋, I'm YM-huang</h1>
+<h3 align="center">A student from ZJUT, who wants to be a fullstack developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YM-huang&label=Profile%20views&color=0e75b6&style=flat" alt="patrick-star-cn" /> </p>
+
 - 👋 Hi, @YM-huang here
 
 - 👀 I’m interested in deeplearning and bigdata, Currently studying at ZJUT
 
-- 🌱 I’m a loyal Java/python user
+- 🌱 I’m a loyal Java/Python/JS user
 
 - 💬 Need any help ,u can reach me through huangyimiao666@gmail.com
 
